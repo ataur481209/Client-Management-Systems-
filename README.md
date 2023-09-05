@@ -1,1 +1,4 @@
-# ESAD_CS_R53_M06_D012
+
+Client Management Systems
+Technologies: Asp.NET MVC Applications and Visual Studio 2022.
+Description:  Master Details CRUD operations are implemented in this project.                                                 
